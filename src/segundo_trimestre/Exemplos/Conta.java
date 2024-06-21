@@ -8,6 +8,7 @@ public class Conta {
     String senha;
     float saldo;
     // criando atributo estatico
+    int cavalo = 2;
     static String nomeBanco;
 
 
